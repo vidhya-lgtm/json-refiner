@@ -1,0 +1,14 @@
+{
+  "name": "John Doe",
+  "age": 28,
+  "is_active": true,
+  "balance": 1500.5,
+  "email": "john@example.com",
+  "tags": [
+    "admin",
+    "user"
+  ],
+  "metadata": {
+    "level": 5
+  }
+}
